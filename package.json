@@ -1,6 +1,6 @@
 {
   "name": "nodejs",
-  "version": "1.0.0",
+  "version": "14.17.3",
   "description": "NodeJs Server Simple",
   "main": "server.js",
   "scripts": {
